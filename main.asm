@@ -293,7 +293,7 @@ int 21h
 	mov es, ax
 	mov dl, 0x0
 	mov cx, 64000
-	mov di, ax
+	mov di, 0x0
 	.cls_loop:
 		mov [es:di], dl
 		inc di
