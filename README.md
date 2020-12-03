@@ -19,9 +19,5 @@ is more reliable.
 # Executing
 Execute this in a 16-bit DOS environnement (You can use DOSBox) 
 
-## Warning !
-Do NOT execute this in Windows or MacOS or Linux or any 32-bit or 64-bit systems (Your OS may reject it anyways but don't try it for safety sake !)
-because only God knows what those opcodes do in a modern machine, it may be harmful ! I am not responsible for your acts !
-
 # Issues
 * Edge cells are not updated (intentionnally, I might fix it later)
