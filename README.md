@@ -24,5 +24,4 @@ Do NOT execute this in Windows or MacOS or Linux or any 32-bit or 64-bit systems
 because only God knows what those opcodes do in a modern machine, it may be harmful ! I am not responsible for your acts !
 
 # Issues
-* Sometimes a visual glitch appear in the middle of the screen 
 * Edge cells are not updated (intentionnally, I might fix it later)
