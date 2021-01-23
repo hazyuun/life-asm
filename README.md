@@ -18,6 +18,9 @@ is more reliable.
 
 # Executing
 Execute this in a 16-bit DOS environnement (You can use DOSBox) 
+## Warning !	
+Use DOSBOX (or some alternative), do __NOT__ execute this directly in 32-bit or 64-bit Windows or MacOS or Linux or any other 32-bit or 64-bit OS (Your OS may reject it anyways but don't try it for safety sake !)	
+because only God knows what those opcodes do in a modern CPU, it may be harmful ! I am not responsible for your acts !
 
 # Issues
 * Edge cells are not updated (intentionnally, I might fix it later)
