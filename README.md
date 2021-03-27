@@ -2,7 +2,7 @@
 Conway's game of life in x86 assembly (NASM syntax)
 <br />
 <p align="center">
-<img src="https://github.com/A-Rain-Lover/life-asm/blob/master/screenshot.gif" />
+<img src="https://github.com/computer-spectre/life-asm/blob/master/screenshot.gif" />
 </p>
 
 # Compiling
